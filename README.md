@@ -21,7 +21,6 @@ Clone HyperLPR then copy everything underHyperLPR-master\Prj-Win\lpr folder into
 Open project in Qt Creator then build.
 Note: 
 OpenCV and HyperLPR only needed for parking_system_backend.
-In 
 You may have to change LIBS += D:\...\opencv3410\x64\mingw\lib\libopencv_*.a to your real abs. path in parking_system_backend.pro.
 You may want remove icon by removing RC_ICONS = resource\main.ico from parking_system_backend.pro.
 
