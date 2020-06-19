@@ -2,7 +2,7 @@
 This is just a demo for a project.
 
 # Screenshot
-![pic](https://raw.githubusercontent.com/424778940z/parking_system/master/screenshot/screenshot.jpg)
+![pic](https://github.com/424778940z/parking_system/blob/master/screenshot.jpg?raw=true)
 
 ```
 PC side:
