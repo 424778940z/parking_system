@@ -1,6 +1,9 @@
 # parking_system
 This is just a demo for a project.
 
+# Screenshot
+![pic](https://raw.githubusercontent.com/424778940z/parking_system/master/screenshot/screenshot.jpg)
+
 ```
 PC side:
 parking_system_backend
