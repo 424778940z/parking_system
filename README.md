@@ -1,5 +1,6 @@
-# parking_system
-This is just a demo for a project.
+# Parking System
+This is a demo project.
+Based on Qt, Sqlite, OpenCV, HpyerLPR.
 
 # Screenshot
 ![pic](https://github.com/424778940z/parking_system/blob/master/screenshot.jpg?raw=true)
@@ -20,7 +21,7 @@ PC side:
 Install MSYS2, install Qt and Qt Creator Package.
 Download OpenCV 3.4.10 source (since MSYS2 only have latest version) and build with default config under MSYS2 console.
 After OpenCV "make install", copy everything under install folder into "opencv3410".
-Clone HyperLPR then copy everything underHyperLPR-master\Prj-Win\lpr folder into "lpr."
+Clone HyperLPR then copy everything under HyperLPR-master\Prj-Win\lpr folder into "lpr."
 Open project in Qt Creator then build.
 Note: 
 OpenCV and HyperLPR only needed for parking_system_backend.
